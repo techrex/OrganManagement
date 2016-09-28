@@ -1,0 +1,5 @@
+@media (max-width: 565px) {
+    .table .table-more {
+        display: none;
+    }
+}
